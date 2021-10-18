@@ -6,4 +6,9 @@ Descripción de los usuarios
 
 1. Marta (dueña de la empresa): Mujer de mediana con una carrera en ADE y con experiencia en la dirección de empresas.
 2. Miguel (cliente): Hombre de 23 años que estudia en el extranjero y no tiene muchos ingresos, que busca volver a su casa con su familia por Navidad.
- - 
+ 
+Historias de usuario
+
+- HU1 -> Como dueño de la empresa, quiero poder tener un listado de todos los viajes disponibles que se actualice constantemente para evitar fallos.
+- HU2-> Como dueño de la empresa, quiero disponer de un informe con las características de los viajes más solicitados y el perfil del cliente que los solicita.
+
