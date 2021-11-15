@@ -12,5 +12,6 @@
 
 - [HU1](https://github.com/jlortega00/IV/issues/3) -> Como dueño de la empresa, quiero poder tener un listado de todos los viajes disponibles que se actualice constantemente para evitar fallos.
 - [HU2](https://github.com/jlortega00/IV/issues/4) -> Como dueño de la empresa, quiero disponer de un informe con las características de los viajes más solicitados y el perfil del cliente que los solicita.
-- [HU2](https://github.com/jlortega00/IV/issues/5) -> Como cliente, quiero poder dar un feedback de los servicios y viajes contratados.
+- [HU3](https://github.com/jlortega00/IV/issues/5) -> Como cliente, quiero poder dar un feedback de los servicios y viajes contratados.
+- [HU4](https://github.com/jlortega00/IV/issues/6) -> Como gestor, quiero recibir recomendaciones de usuarios que ayuden a mejorar la empresa.
 
